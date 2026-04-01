@@ -144,6 +144,15 @@ Attendance export (PDF/Excel)
 
 ---
 
+## 💡 Future Improvements
+
+* Face Recognition Accuracy Improvement
+* Admin Panel Enhancements
+* Real-time Notifications
+* Multi-user Role System
+
+  ---
+
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -163,14 +172,6 @@ If you like this project, give it a ⭐ on GitHub!
 
 ---
 
-## 💡 Future Improvements
-
-* Face Recognition Accuracy Improvement
-* Admin Panel Enhancements
-* Real-time Notifications
-* Multi-user Role System
-
-  ---
 
   ## 📬 Contact
 
