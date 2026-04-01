@@ -6,10 +6,9 @@ A modern web-based **Face Detection System** that uses real-time camera access t
 
 ## 📸 Screenshots
 
+
 🔗![Live Smart Face Detection System Demo](https://github.com/Priyabratasubhransubehera/Face-Detection-Dashboard/blob/main/Screenshot%202026-04-01%20121723.png)
 
-
-🔗![Live Smart Face Detection System Demo](https://github.com/Priyabratasubhransubehera/Face-Detection-Dashboard/blob/main/Screenshot%202026-04-01%20122130%20-%20Copy.png)
 
 ---
 
@@ -145,12 +144,6 @@ Attendance export (PDF/Excel)
 
 ---
 
-## 📸 Screenshots
-
-*Add your project screenshots here*
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -181,10 +174,12 @@ If you like this project, give it a ⭐ on GitHub!
 
   ## 📬 Contact
 
-- 👨‍💻 Name: Your Name  
-- 📧 Email: your-email@example.com  
+- 👨‍💻 Name: Priyabrata Subhransu Behera
+- 📧 Email: psubhransubehera@gmail.com  
 - 🔗 GitHub: https://github.com/your-username  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 💼 LinkedIn: https://github.com/Priyabratasubhransubehera
+- 🚀 Live Demo: (https://69cd27071d6e9180eadb7740--mellifluous-sprite-0e144f.netlify.app/dashboard)
+
 
 
 🔥 This project is built for learning, innovation, and real-world application of AI in web development.
