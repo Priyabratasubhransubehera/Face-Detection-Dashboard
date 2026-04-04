@@ -177,8 +177,8 @@ If you like this project, give it a ⭐ on GitHub!
 
 - 👨‍💻 Name: Priyabrata Subhransu Behera
 - 📧 Email: psubhransubehera@gmail.com  
-- 🔗 GitHub: https://github.com/your-username  
-- 💼 LinkedIn: https://github.com/Priyabratasubhransubehera
+- 🔗 GitHub: https://github.com/Priyabratasubhransubehera
+- 💼 LinkedIn: LINKedin.com/in/priyabrata-subhransu-behera-a3992a369/
 - 🚀 Live Demo: (https://69cd27071d6e9180eadb7740--mellifluous-sprite-0e144f.netlify.app/dashboard)
 
 
